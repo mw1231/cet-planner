@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "study_durations": {
+    "CET-4": { "1": 24, "2": 16, "3": 12, "4": 8, "5": 4 },
+    "CET-6": { "1": 36, "2": 24, "3": 20, "4": 16, "5": 8 }
+  },
+  "weekly_themes": {
+    "CET-4": [
+      "核心词汇基础",
+      "听力：短对话训练",
+      "阅读：略读与扫读技巧",
+      "写作：议论文结构与模板",
+      "词汇拓展周",
+      "听力：长对话与短文",
+      "阅读：仔细阅读与推理",
+      "翻译：单句汉译英",
+      "词汇巩固周",
+      "综合技能训练",
+      "全真模拟测试",
+      "薄弱环节专项突破"
+    ],
+    "CET-6": [
+      "高阶词汇基础",
+      "听力：学术讲座训练",
+      "阅读：深度分析与推理",
+      "写作：论说文写作",
+      "学术词汇拓展",
+      "听力：新闻与广播",
+      "阅读：速度与理解力提升",
+      "翻译：段落汉译英",
+      "词汇精炼周",
+      "综合技能训练",
+      "全真模拟测试",
+      "薄弱环节专项突破"
+    ]
+  },
+  "skill_rotation": ["listening", "reading", "writing", "translation", "listening", "reading"],
+  "daily_structure": {
+    "vocabulary": { "description": "学习 {new_words} 个新单词 + 复习 {review_words} 个旧单词" },
+    "listening": { "description": "听力训练 {duration} 分钟，素材：{material}", "duration_minutes": 30, "materials": ["VOA慢速英语", "BBC 6 Minute English", "四级听力真题", "六级听力真题", "TED-Ed 短演讲"] },
+    "reading": { "description": "阅读 {count} 篇短文并完成理解题", "count": 2 },
+    "writing": { "description": "写一篇 {word_count} 词短文，主题：{topic}", "word_count": 150, "topics": ["环境保护", "科技发展", "教育的重要性", "健康生活", "社会热点", "校园生活", "文化交流", "个人成长"] },
+    "translation": { "description": "翻译 {count} 个句子（汉译英），注重语法准确度", "count": 5 },
+    "review": { "description": "回顾本周词汇，重做错题" },
+    "mini_test": { "description": "完成本周小测验" }
+  }
+}

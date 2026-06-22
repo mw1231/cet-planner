@@ -1,0 +1,275 @@
+{
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "vocab_001",
+      "type": "vocabulary",
+      "difficulty": 1,
+      "stem": "The movie was so ___ that I fell asleep halfway through.",
+      "options": ["thrilling", "boring", "educational", "short"],
+      "answer": 1,
+      "explanation": "boring (无聊的) 与 'fell asleep (睡着了)' 语境匹配。"
+    },
+    {
+      "id": "vocab_002",
+      "type": "vocabulary",
+      "difficulty": 1,
+      "stem": "She decided to ___ his invitation to the party.",
+      "options": ["accept", "refuse", "postpone", "consider"],
+      "answer": 0,
+      "explanation": "accept (接受) 是搭配 'invitation' 最自然的动词。若后面有 'because she was busy' 则 refuse 也可。题干中立语境下 accept 为最优。"
+    },
+    {
+      "id": "vocab_003",
+      "type": "vocabulary",
+      "difficulty": 1,
+      "stem": "Regular exercise can ___ your physical and mental health.",
+      "options": ["damage", "improve", "measure", "complicate"],
+      "answer": 1,
+      "explanation": "improve (改善) 与健康话题搭配，regular exercise 的好处是常识。"
+    },
+    {
+      "id": "vocab_004",
+      "type": "vocabulary",
+      "difficulty": 1,
+      "stem": "The company plans to ___ 50 new employees next month.",
+      "options": ["fire", "hire", "train", "promote"],
+      "answer": 1,
+      "explanation": "hire (雇佣) 对应 'new employees (新员工)'。"
+    },
+    {
+      "id": "vocab_005",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "The professor asked us to ___ our essays by Friday.",
+      "options": ["submit", "withdraw", "publish", "translate"],
+      "answer": 0,
+      "explanation": "submit (提交) 是学术场景最常用搭配：submit homework/essay/assignment。"
+    },
+    {
+      "id": "vocab_006",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "It's important to ___ a balance between work and leisure.",
+      "options": ["lose", "maintain", "ignore", "calculate"],
+      "answer": 1,
+      "explanation": "maintain a balance (保持平衡) 是固定搭配。"
+    },
+    {
+      "id": "vocab_007",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "The medicine should ___ the pain within 30 minutes.",
+      "options": ["increase", "relieve", "cause", "identify"],
+      "answer": 1,
+      "explanation": "relieve the pain (缓解疼痛) 是医药场景常用搭配。"
+    },
+    {
+      "id": "vocab_008",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "His ___ for learning new languages impressed everyone.",
+      "options": ["indifference", "enthusiasm", "reluctance", "confusion"],
+      "answer": 1,
+      "explanation": "enthusiasm (热情) 与 'impressed everyone (让所有人印象深刻)' 语境一致。"
+    },
+    {
+      "id": "vocab_009",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "We need to ___ this problem before it gets worse.",
+      "options": ["ignore", "create", "address", "simplify"],
+      "answer": 2,
+      "explanation": "address a problem (处理问题) 是正式语境下常用的表达。"
+    },
+    {
+      "id": "vocab_010",
+      "type": "vocabulary",
+      "difficulty": 2,
+      "stem": "The company's profits have increased ___ over the past year.",
+      "options": ["slightly", "significantly", "barely", "rarely"],
+      "answer": 1,
+      "explanation": "significantly (显著地) 适合强调利润增长的程度。slightly 和 barely 意思相近但偏弱。"
+    },
+    {
+      "id": "vocab_011",
+      "type": "vocabulary",
+      "difficulty": 3,
+      "stem": "The scientist's discovery had a ___ impact on modern medicine.",
+      "options": ["trivial", "profound", "temporary", "superficial"],
+      "answer": 1,
+      "explanation": "profound (深远的) 修饰 impact，表示重大影响。trivial/superficial(表面的) 语义相反。"
+    },
+    {
+      "id": "vocab_012",
+      "type": "vocabulary",
+      "difficulty": 3,
+      "stem": "The two countries reached a ___ agreement after months of negotiation.",
+      "options": ["fragile", "mutual", "hostile", "unilateral"],
+      "answer": 1,
+      "explanation": "mutual agreement (双方协议) 是外交/商业常用搭配。unilateral(单方面的) 与 'two countries' 矛盾。"
+    },
+    {
+      "id": "vocab_013",
+      "type": "vocabulary",
+      "difficulty": 3,
+      "stem": "She was ___ to admit that she had made a mistake.",
+      "options": ["eager", "reluctant", "delighted", "indifferent"],
+      "answer": 1,
+      "explanation": "reluctant (不情愿的) 修饰 admit a mistake 是自然搭配：不情愿承认错误。"
+    },
+    {
+      "id": "vocab_014",
+      "type": "vocabulary",
+      "difficulty": 4,
+      "stem": "The evidence was ___ enough to convince even the most skeptical jury members.",
+      "options": ["ambiguous", "compelling", "negligible", "contradictory"],
+      "answer": 1,
+      "explanation": "compelling evidence (令人信服的证据) 是法律/论证场景高频搭配。ambiguous(模糊的) 和 contradictory(矛盾的) 语义相反。"
+    },
+    {
+      "id": "vocab_015",
+      "type": "vocabulary",
+      "difficulty": 4,
+      "stem": "The author's latest novel has been widely ___ for its innovative narrative structure.",
+      "options": ["criticized", "acclaimed", "ignored", "misunderstood"],
+      "answer": 1,
+      "explanation": "acclaimed (赞誉) 与 'innovative narrative structure' 正面评价一致。widely acclaimed 是常见搭配。"
+    },
+    {
+      "id": "vocab_016",
+      "type": "vocabulary",
+      "difficulty": 5,
+      "stem": "The politician tried to ___ the scandal, but the media continued to investigate.",
+      "options": ["exaggerate", "suppress", "fabricate", "publicize"],
+      "answer": 1,
+      "explanation": "suppress (压制/隐瞒) 与 'but the media continued...' 构成转折：试图压住丑闻但媒体穷追不舍。"
+    },
+    {
+      "id": "vocab_017",
+      "type": "vocabulary",
+      "difficulty": 5,
+      "stem": "His argument was ___; none of the evidence he cited was relevant to the topic.",
+      "options": ["coherent", "spurious", "concise", "persuasive"],
+      "answer": 1,
+      "explanation": "spurious (站不住脚的/似是而非的) 与 'none...relevant' 对应。coherent/persuasive 语义相反。"
+    },
+    {
+      "id": "vocab_018",
+      "type": "vocabulary",
+      "difficulty": 3,
+      "stem": "Reading extensively can ___ your vocabulary and improve your writing skills.",
+      "options": ["exhaust", "expand", "eliminate", "evaluate"],
+      "answer": 1,
+      "explanation": "expand your vocabulary (扩大词汇量) 是学习场景最常见搭配。"
+    },
+    {
+      "id": "grammar_001",
+      "type": "grammar",
+      "difficulty": 1,
+      "stem": "If I ___ you, I would study harder for the exam.",
+      "options": ["am", "was", "were", "be"],
+      "answer": 2,
+      "explanation": "虚拟语气中与现在事实相反的假设，be 动词一律用 were（所有人称）。"
+    },
+    {
+      "id": "grammar_002",
+      "type": "grammar",
+      "difficulty": 1,
+      "stem": "Neither the teacher nor the students ___ satisfied with the result.",
+      "options": ["is", "are", "was", "has been"],
+      "answer": 1,
+      "explanation": "neither...nor... 的主谓一致采用就近原则，离谓语最近的是 the students（复数），故用 are。"
+    },
+    {
+      "id": "grammar_003",
+      "type": "grammar",
+      "difficulty": 1,
+      "stem": "She has been studying English ___ three years.",
+      "options": ["since", "for", "during", "in"],
+      "answer": 1,
+      "explanation": "for + 时间段（three years）；since + 时间点。"
+    },
+    {
+      "id": "grammar_004",
+      "type": "grammar",
+      "difficulty": 2,
+      "stem": "By the time he arrived, the meeting ___.",
+      "options": ["already started", "had already started", "has already started", "will start"],
+      "answer": 1,
+      "explanation": "by the time + 过去式 → 主句用过去完成时 (had started)，表示 '在到达之前已经开始了'。"
+    },
+    {
+      "id": "grammar_005",
+      "type": "grammar",
+      "difficulty": 2,
+      "stem": "It was in this very room ___ the historic decision was made.",
+      "options": ["that", "where", "which", "when"],
+      "answer": 0,
+      "explanation": "强调句型 It is/was...that...，此处强调地点状语 in this very room。"
+    },
+    {
+      "id": "grammar_006",
+      "type": "grammar",
+      "difficulty": 3,
+      "stem": "Not until the teacher came in ___ talking.",
+      "options": ["they stopped", "did they stop", "they had stopped", "have they stopped"],
+      "answer": 1,
+      "explanation": "Not until 置于句首，主句需部分倒装（助动词提前 + 主语 + 动词原形）。"
+    },
+    {
+      "id": "grammar_007",
+      "type": "grammar",
+      "difficulty": 3,
+      "stem": "The number of students who ___ interested in this course ___ increasing.",
+      "options": ["is ... is", "are ... is", "is ... are", "are ... are"],
+      "answer": 1,
+      "explanation": "who 指代 students（复数）用 are；The number of... 作主语，核心词 number 是单数，用 is。"
+    },
+    {
+      "id": "grammar_008",
+      "type": "grammar",
+      "difficulty": 4,
+      "stem": "___ for your timely help, we would not have completed the project on time.",
+      "options": ["If it were not", "Had it not been", "Were it not", "Should it not be"],
+      "answer": 1,
+      "explanation": "与过去事实相反的虚拟条件句省略 if 时倒装：Had it not been for... = If it had not been for...。"
+    },
+    {
+      "id": "grammar_009",
+      "type": "grammar",
+      "difficulty": 4,
+      "stem": "I wish I ___ to the concert last night. I heard it was amazing.",
+      "options": ["went", "have gone", "had gone", "would go"],
+      "answer": 2,
+      "explanation": "wish 后的从句表示与过去事实相反的愿望，用过去完成时 had gone。"
+    },
+    {
+      "id": "grammar_010",
+      "type": "grammar",
+      "difficulty": 5,
+      "stem": "So confused ___ that he couldn't answer a single question on the exam.",
+      "options": ["was he", "he was", "did he", "he did"],
+      "answer": 0,
+      "explanation": "So + 形容词 置于句首，主句需部分倒装：So confused was he = He was so confused。"
+    },
+    {
+      "id": "grammar_011",
+      "type": "grammar",
+      "difficulty": 2,
+      "stem": "She is one of those people who ___ always willing to help others.",
+      "options": ["is", "are", "was", "has been"],
+      "answer": 1,
+      "explanation": "one of + 复数名词 + who 结构中，who 指代的是复数名词 people，故用 are。"
+    },
+    {
+      "id": "grammar_012",
+      "type": "grammar",
+      "difficulty": 3,
+      "stem": "He insisted that the plan ___ carried out immediately.",
+      "options": ["is", "was", "be", "would be"],
+      "answer": 2,
+      "explanation": "insist (坚持要求) + that 从句用虚拟语气 (should) + 动词原形，should 可省略。"
+    }
+  ]
+}

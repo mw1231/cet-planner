@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "targets": {
+    "CET-4": 4500,
+    "CET-6": 6000
+  },
+  "level_estimates": {
+    "1": { "range": [0, 2000], "typical": 1500 },
+    "2": { "range": [2000, 3000], "typical": 2500 },
+    "3": { "range": [3000, 4000], "typical": 3500 },
+    "4": { "range": [4000, 5000], "typical": 4500 },
+    "5": { "range": [5000, 99999], "typical": 5500 }
+  },
+  "daily_quotas": {
+    "1": { "new_words": 20, "review_words": 30 },
+    "2": { "new_words": 25, "review_words": 35 },
+    "3": { "new_words": 30, "review_words": 40 },
+    "4": { "new_words": 35, "review_words": 45 },
+    "5": { "new_words": 40, "review_words": 50 }
+  },
+  "max_daily": {
+    "new_words": 60,
+    "review_words": 90
+  }
+}
